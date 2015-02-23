@@ -2,10 +2,10 @@
   "name": "rhapsody-api",
   "description": "Rhapsody/Napster API for NodeJS",
   "author": "Nathan Daniel <nathan.daniel@shifttechnology.io>",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nathanpdaniel/rhapsody-api.git"
+    "url": "git://github.com/shifttechnology/rhapsody-api.git"
   },
   "dependencies": {
     "request": "*",
@@ -16,9 +16,9 @@
     "chai": "*"
   },
   "bugs": {
-    "url": "https://github.com/nathanpdaniel/rhapsody-api/issues"
+    "url": "https://github.com/shifttechnology/rhapsody-api/issues"
   },
-  "homepage": "https://github.com/nathanpdaniel/rhapsody-api",
+  "homepage": "https://github.com/shifttechnology/rhapsody-api",
   "main": "rhapsody.js",
   "scripts": {
     "test": "mocha"
