@@ -2,7 +2,7 @@
   "name": "rhapsody-api",
   "description": "Rhapsody/Napster API for NodeJS",
   "author": "Nathan Daniel <nathan.daniel@shifttechnology.io>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/shifttechnology/rhapsody-api.git"
