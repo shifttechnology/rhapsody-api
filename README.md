@@ -18,4 +18,29 @@ Rhapsody.topArtists().then(function(resp){
 });
 ```
 
+## API Reference
+```javascript
+.topArtists([params])
+.artistDetails(artist)
+.artistBio(artist)
+.artistNewReleases(artist [, params])
+.artistTopAlbums(artist [. params])
+.artistDiscography(artist [. params])
+.artistTopTracks(artist [. params])
+.artistImages(artist)
+.similarArtists(artist)
+.artistEditorialPost(artist)
+.newAlbums([params])
+.staffPickAlbums([params])
+.topAlbums([params])
+.albumDetails(album)
+.albumTracks(album)
+.albumImages(album)
+.similarAlbums(album)
+.albumReviews(album)
+.getTopTracks([params])
+.getTrackDetails(track)
+.myFavoriates(access_token)
+```
+
 
