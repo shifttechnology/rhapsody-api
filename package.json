@@ -24,8 +24,7 @@
     "test": "mocha"
   },
   "keywords": [
-    "rhapsody",
-    "api"
+    "rhapsody","napster","music","api"
   ],
   "license": "MIT"
 }
