@@ -1,8 +1,7 @@
 rhapsody-api
 ===
 
-NodeJS API wrapper for Rhapsody/Napster
-This library implements promises.
+NodeJS API wrapper for Rhapsody/Napster.  Honestly, I have a fancy TV and I want to build a Rhapsody integrated app for it.  Hopefully, others will find this useful as well.  This library implements promises.  Head on over to https://developer.rhapsody.com/ and sign up for developer account.
 
 
 ## Installation
