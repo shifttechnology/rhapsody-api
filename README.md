@@ -19,6 +19,7 @@ Rhapsody.topArtists().then(function(resp){
 ```
 
 ## API Reference
+Metadata APIs
 ```javascript
 .topArtists([params])
 .artistDetails(artist)
@@ -40,7 +41,18 @@ Rhapsody.topArtists().then(function(resp){
 .albumReviews(album)
 .getTopTracks([params])
 .getTrackDetails(track)
-.myFavoriates(access_token)
+```
+Member APIs
+```javascript
+.myFavorites(access_token)
+.getMyLibraryArtists(access_token)
+.getMyPlaylists(access_token)
+.getPlaylistDetails(access_token)
+.getPlaylistTracks(access_token)
+.getRecentArtists(access_token)
+.getRecentGenres(access_token)
+.getRecentListens(access_token)
+
 ```
 
 
